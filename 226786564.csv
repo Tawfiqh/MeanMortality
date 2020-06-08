@@ -1,0 +1,115 @@
+
+"Mortality statistics - underlying cause, sex and age"
+"ONS Crown Copyright Reserved [from Nomis on 8 June 2020]"
+"Analysis   :","standard"
+"Date       :","2018"
+"cause of death:","A00-R99,U00-Y89 All causes, all ages"
+"Gender     :","Total"
+"measure    :","Deaths"
+
+"Age","Total mortality","England","Wales","England and Wales","Resident outside England and Wales"
+
+"total (all ages)",541589,505859,34406,540265,1324
+"Aged under 1",2571,2449,109,2558,13
+"Aged 1 to 4",379,348,26,374,5
+"Aged 5 to 9",270,247,19,266,4
+"Aged 10-14",310,287,20,307,3
+"Aged 15-19",831,769,54,823,8
+"Aged 20-24",1359,1277,72,1349,10
+"Aged 25-29",1823,1669,122,1791,32
+"Aged 30-34",2534,2339,151,2490,44
+"Aged 35-39",3607,3350,226,3576,31
+"Aged 40-44",5020,4645,316,4961,59
+"Aged 45-49",8705,8136,494,8630,75
+"Aged 50-54",12964,12106,767,12873,91
+"Aged 55-59",18180,16894,1190,18084,96
+"Aged 60-64",24305,22573,1586,24159,146
+"Aged 65-69",35848,33252,2441,35693,155
+"Aged 70-74",54180,50326,3684,54010,170
+"Aged 75-79",65236,60657,4428,65085,151
+"Aged 80-84",86686,80916,5666,86582,104
+"Aged 85-89",99610,93487,6047,99534,76
+"Aged 90 and over",117171,110132,6988,117120,51
+
+
+
+
+
+
+
+
+
+"Mortality statistics - underlying cause, sex and age"
+"ONS Crown Copyright Reserved [from Nomis on 8 June 2020]"
+"Analysis   :","standard"
+"Date       :","2018"
+"cause of death:","A00-R99,U00-Y89 All causes, all ages"
+"Gender     :","Male"
+"measure    :","Deaths"
+
+"Age","Total mortality","England","Wales","England and Wales","Resident outside England and Wales"
+
+"total (all ages)",267960,250012,17150,267162,798
+"Aged under 1",1440,1369,63,1432,8
+"Aged 1 to 4",215,202,11,213,2
+"Aged 5 to 9",137,124,12,136,1
+"Aged 10-14",194,176,15,191,3
+"Aged 15-19",561,520,34,554,7
+"Aged 20-24",981,919,54,973,8
+"Aged 25-29",1242,1124,91,1215,27
+"Aged 30-34",1658,1527,101,1628,30
+"Aged 35-39",2260,2090,147,2237,23
+"Aged 40-44",3185,2936,206,3142,43
+"Aged 45-49",5251,4897,303,5200,51
+"Aged 50-54",7870,7346,457,7803,67
+"Aged 55-59",10755,9994,706,10700,55
+"Aged 60-64",14355,13344,920,14264,91
+"Aged 65-69",21232,19729,1412,21141,91
+"Aged 70-74",31296,29096,2109,31205,91
+"Aged 75-79",36041,33488,2471,35959,82
+"Aged 80-84",44735,41692,2985,44677,58
+"Aged 85-89",45290,42463,2786,45249,41
+"Aged 90 and over",39262,36976,2267,39243,19
+
+
+
+
+
+
+
+
+
+"Mortality statistics - underlying cause, sex and age"
+"ONS Crown Copyright Reserved [from Nomis on 8 June 2020]"
+"Analysis   :","standard"
+"Date       :","2018"
+"cause of death:","A00-R99,U00-Y89 All causes, all ages"
+"Gender     :","Female"
+"measure    :","Deaths"
+
+"Age","Total mortality","England","Wales","England and Wales","Resident outside England and Wales"
+
+"total (all ages)",273629,255847,17256,273103,526
+"Aged under 1",1131,1080,46,1126,5
+"Aged 1 to 4",164,146,15,161,3
+"Aged 5 to 9",133,123,7,130,3
+"Aged 10-14",116,111,5,116,0
+"Aged 15-19",270,249,20,269,1
+"Aged 20-24",378,358,18,376,2
+"Aged 25-29",581,545,31,576,5
+"Aged 30-34",876,812,50,862,14
+"Aged 35-39",1347,1260,79,1339,8
+"Aged 40-44",1835,1709,110,1819,16
+"Aged 45-49",3454,3239,191,3430,24
+"Aged 50-54",5094,4760,310,5070,24
+"Aged 55-59",7425,6900,484,7384,41
+"Aged 60-64",9950,9229,666,9895,55
+"Aged 65-69",14616,13523,1029,14552,64
+"Aged 70-74",22884,21230,1575,22805,79
+"Aged 75-79",29195,27169,1957,29126,69
+"Aged 80-84",41951,39224,2681,41905,46
+"Aged 85-89",54320,51024,3261,54285,35
+"Aged 90 and over",77909,73156,4721,77877,32
+
+
+
